@@ -1,8 +1,8 @@
 E-Learning Engagement Analysis Dashboard
-This project analyzes engagement on a digital learning platform using session logs, content views, and user metadata. It provides insights into platform usage, content effectiveness, and student behavior.
+	This project analyzes engagement on a digital learning platform using session logs, content views, and user metadata. It provides insights into platform usage, content effectiveness, and student behavior.
 
 Objective
-To evaluate how students and teachers interact with e-learning materials across grades, districts, and subjects, and identify opportunities to enhance digital learning experiences.
+	To evaluate how students and teachers interact with e-learning materials across grades, districts, and subjects, and identify opportunities to enhance digital learning experiences.
 
 Datasets
 - users.csv: User details (role, grade, district)
